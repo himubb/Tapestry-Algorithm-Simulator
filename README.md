@@ -4,6 +4,7 @@ Himavanth Boddu(32451847)
 Shubham Saoji(26364957)
 
 1. Problem Definition
+
 We talked extensively in class about the overlay networks and how they can be used to
 provide services. The goal of this project is to implement in Elixir using the actor model
 the Tapestry Algorithm and a simple object access service to prove its usefulness. The
